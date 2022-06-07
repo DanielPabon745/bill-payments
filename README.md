@@ -12,6 +12,6 @@ To run this application, please follow the **next steps**:
 
   > ./mvnw spring-boot:run
   
-* When the application is running, in the folder **collection** there is a Postman collection to call the API services. This collection has the basic authorization configured already.
+* When the application is running, in the folder **collection** there is a Postman collection to call the API services. This collection has the basic authorization configured already. User: bill-user, Pass: e10e6fea-4b4f-433f-b15c-8a8013701e1a
 
 <img width="896" alt="Captura de Pantalla 2022-06-07 a la(s) 4 29 27 p m" src="https://user-images.githubusercontent.com/26047772/172486162-b52c9bac-ad46-4679-8482-2d5f46bd6334.png">
