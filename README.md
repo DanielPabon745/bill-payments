@@ -3,7 +3,7 @@
 To run this application, please follow the **next steps**:
   
 * Clone this project to your local machine.
-* You will need to have installed Java (This project uses Java 1.8).
+* You will need to have installed Java (This project uses Java 1.8, developed with Intellij IDEA).
 * Run the script located in folder db.
 
   > You will need to have running a MySQL instance in **localhost:3306**
